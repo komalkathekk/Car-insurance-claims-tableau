@@ -1,5 +1,3 @@
-# Car-insurance-claims-tableau
-
 
 # Car Insurance Claims Analysis — Tableau
 
